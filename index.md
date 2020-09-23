@@ -1,4 +1,4 @@
-##Chillkr Studio Privacy Policy
+## Chillkr Studio Privacy Policy
 
 Effective Date: September 23, 2020
 
