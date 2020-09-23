@@ -1,6 +1,6 @@
 ## Chillkr Studio Privacy Policy
 
-Effective Date: September 23, 2020
+*Effective Date: September 23, 2020
 
 Chillkr Studio provides this Privacy Policy to describe the ways we collect, store, use, and manage the information, including personal information, and data that our users provide or we collect through any app or game provided on a mobile platform. Please note that the scope of this Policy is limited to information and data collected or received by Applified through your use of the Services. Chillkr Studio is not responsible for the actions of individuals with no relationship to Applified or third party companies, the content of their sites, the use of information or data you provide to them, or any products or services they may offer. Any link to those sites does not constitute our sponsorship of, or affiliation with, those individuals or companies.
 Information and Data We Collect from You
@@ -60,5 +60,5 @@ Our Policy Regarding Children. We do not knowingly collect or solicit personal d
 Transfer of Personal Data Outside Your Country. We may transfer information that we collect about you to affiliated entities, or to other third parties across borders and from your country or jurisdiction to other countries or jurisdictions around the world. Please note that these countries and jurisdictions may not have the same data protection laws as your own jurisdiction, and we take steps to ensure adequate safeguards are in place to enable transfer of information to the U.S. and the use and disclosure of information about you, including personal data, as described in this Policy.
 Lawful Basis for Processing. On certain occasions, we process your personal data when it is necessary for the performance of a contract to which you are a party, such as to provide the Services to you. We may also process your personal data to respond to your inquiries concerning our products and services.
 Changes to This Policy. We may update this Policy to reflect changes to our data and information privacy practices. If we make any material changes we will notify you by means of a notice on the Services prior to the change becoming effective. We encourage you to periodically review this Policy for the latest information on our privacy practices. Please note that if Chillkr Studio needs to adapt the policy to legal requirements, the new policy will become effective immediately or as required without any personal notification.
-Contact Chillkr Studio
-chillkrstudio@gmail.com
+
+## Contact Chillkr Studio - chillkrstudio@gmail.com
